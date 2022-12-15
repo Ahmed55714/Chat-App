@@ -1,6 +1,6 @@
-# chat
+# Chat-App
 
-A new Flutter project.
+Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 
 
 ## Getting Started
 
